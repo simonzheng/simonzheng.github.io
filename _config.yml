@@ -2,7 +2,7 @@
 title: Simon Zheng
 description: 'Simon is from New York City and graduated from Stanford University with a BS/MS in Computer Science. He lives in New York City and works as a software engineer. He is interested in technology, education, languages, and volleyball and his goal is to use his skills make a difference in the world.'
 url: 'simonzheng.github.io/'
-baseurl: '/posts'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
