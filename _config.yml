@@ -4,7 +4,7 @@ description: 'Simon is from New York City and graduated from Stanford University
 url: 'simonzheng.github.io/'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'simonzheng'
+disqus_shortname: 'simonzheng'
 
 author:
   name: 'Simon Zheng'
