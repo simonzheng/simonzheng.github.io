@@ -5,7 +5,7 @@ categories: [simon]
 tags: [personal, self-improvement, emotions]
 ---
 
-## Struggles with Writing and Developing a Habit Out of Reading
+## Struggling with Writing; Reconnecting with Reading
 
 I've struggled with mustering the courage to write in this blog since I started this blog in January 2018. I was so excited about setting up this blog to write about the issues that I struggled with (deriving validation from accomplishments, struggling to find meaningful connections and friendships with vulnerability, imposter syndrome at Stanford and as a software engineer, intimidation and self-doubt around pursuing goals like starting a book club, starting a company, etc.) but once it came time to actually write, I froze because I was intimidated by have my writing seen by the "public eye". I have written in private Tumblrs, Wordpresses, and have tried to go public with my writing a few times but I inevitably have found that I tend to write less frequently and less vulnerably when I make my writing public. This defeats the purpose of writing publicly, which is that I want to write ideas out and receive input and insights from others who share the same ideas to facilitate the evolution and maturation of my thoughts. 
 
