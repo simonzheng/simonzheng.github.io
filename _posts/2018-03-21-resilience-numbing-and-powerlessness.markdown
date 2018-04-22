@@ -1,5 +1,5 @@
 ---
-title:  "Resilience, Numbing, and Powerlessness"
+title:  "Resilience and Numbing"
 date:   2018-03-21 21:57:00
 categories: [simon]
 tags: [personal, self-improvement, emotions]
@@ -13,9 +13,9 @@ While I haven't kept up with my original goal of writing in 2018, I've been fair
 
 In the first 3 months of 2018, I've finished 3 books ("How to Win Friends and Influence People", "Rich Dad, Poor Dad", and "The Gifts of Imperfection."). I particularly enjoyed ["The Gifts of Imperfection"](https://www.hazelden.org/HAZ_MEDIA/2545_GiftsofImperfection.pdf) by Brené Brown. The subtitle of the book is "Let Go of Who You Think You're Supposed to Be and Embrace Who You Are: Your Guide to a Wholehearted Life". The book addressed a lot of my mental obstacles that have stopped me from writing (perfectionism, "fitting in" by not writing until my writing had been polished, self-doubt, etc.).
 
-I figure that a good way for me to start writing is to write about some of the interesting ideas that I've read about and why they've stuck out to me, so here's the first post about "Resilience, Numbing, and Powerlessness".
+I figure that a good way for me to start writing is to write about some of the interesting ideas that I've read about and why they've stuck out to me, so here's the first post about "Resilience and Numbing".
 
-## Resilience, Numbing, and Powerlessness
+## Resilience and Numbing
 
 Brené Brown's book "The Gifts of Imperfection" establishes 10 guideposts to wholehearted living and one that really resonated with me was Guidepost #3: *Cultivating a Resilient Spirit: Letting Go of Numbing and Powerlessness*. In this guidepost, she discusses cultivating resilience through a few concrete actions such as:
 * **Letting Go of Comparisons With Others**
