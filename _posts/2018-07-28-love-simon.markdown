@@ -27,6 +27,8 @@ Thes experiences show why it's dangerous to expose children to religion like thi
 
 _TODO: might need to recall a part here to make it happier or explain how I believe that these literal interpretations of the Bible are unhealthy or really to explain what the point of this was_
 
+There is a lesson here about how important it is to be out not just for yourself but to give visibility to other young people like you were who may believe that they cannot have happy futures ahead of them if they are gay.
+
 
 
 ---------------------------------------------------------------------------------------------------
